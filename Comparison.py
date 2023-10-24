@@ -10,7 +10,7 @@ var_g = 60000
 print(var_a == var_b)
 print(var_a >= var_b)
 print(var_a > var_b)
-print(var_a > var_c) # will put out an Error cause we can usually not do math with strings in programming
+print(var_a > var_c) # will put out an Error cause we can usually can not do math with strings in programming
 print(var_a > var_d)
 print(var_g < var_b)
 print(var_a != var_c)
